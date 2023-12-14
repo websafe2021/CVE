@@ -6,10 +6,10 @@ version:TWS-200
 
 1.Log in to the background
 
-![1](C:\Users\Administrator\Desktop\1.png)
+![1](https://github.com/websafe2021/CVE/blob/main/1.png)
 
-![2](C:\Users\Administrator\Desktop\2.png)
+![2](https://github.com/websafe2021/CVE/blob/main/2.png)
 
 2.Then enter "baidu.com; "cat /etc/passwd" and the command is successfully executed
 
-![3](C:\Users\Administrator\Desktop\3.png)
+![3](https://github.com/websafe2021/CVE/blob/main/3.png)
