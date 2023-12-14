@@ -10,6 +10,6 @@ version:TWS-200
 
 ![2](https://github.com/websafe2021/CVE/blob/main/2.png)
 
-2.Then enter "baidu.com; "cat /etc/passwd" and the command is successfully executed
+2.Then enter 'baidu.com|cat /etc/passwd' and the command is successfully executed
 
 ![3](https://github.com/websafe2021/CVE/blob/main/3.png)
