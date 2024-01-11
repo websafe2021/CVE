@@ -4,6 +4,8 @@ official website:http://www.tenhot.net/
 
 version:TWS-200
 
+firmware version:V4.0-201809201424
+
 1.Log in to the background
 
 ![1](https://github.com/websafe2021/CVE/blob/main/1.png)
